@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding:0;
+}
+body {
+    background: url("https://png.pngtree.com/background/20230516/original/pngtree-large-room-full-of-equipment-in-a-gym-picture-image_2611111.jpg");
+
+}
+
+button {
+    padding: 10px;
+    margin: 20px;
+    border-radius: 40px;
+    
+}
+
+button:hover {
+    background-color: gold;
+}
+
+.wrapper {
+    padding:20px;
+    margin:auto;
+    margin-top: 80px;
+    text-align: center;
+    border: 5px saddlebrown solid;
+    border-radius: 20px;
+    height: auto;
+    width: 450px;
+    background-color: antiquewhite;
+}
+
+.innerele {
+    margin: 20px;
+    padding: 2px;
+}
+
+footer {
+    background-color: black;
+    color: whitesmoke;
+    padding: 1px;
+    text-align: center;
+    position: fixed;
+    width:100%;
+    left: 0;
+    bottom: 0;
+
+}
